@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vansh saraswat</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" border-radius="20px"></img>
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" rounded-xl></img>
 
 - 🌱 I’m currently learning **Data Science and AI**
 
