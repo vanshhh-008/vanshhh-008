@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshhh-008?tab=repositories](https://github.com/vanshhh-008?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **vanshsaraswat348@gmail.com**
 
