@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vansh saraswat</h1>
 <h3 align="center">A passionate Full Stack Developer & Data Analyst from India</h3>
 
-<img align="right" width="300" alt="coding" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg"></img>
+<img align="right" width="300" alt="coding" style="border-radius:'20%'" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg"></img>
 
 - 🌱 I’m currently learning **Data Science & AI**
 
